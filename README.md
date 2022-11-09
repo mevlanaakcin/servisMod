@@ -12,4 +12,5 @@ Mikrokontrolör olarak ATMEGA2560-16U Mikrodenetleyici kullanıldı.
 
 
 <br>
+<h5>Üretilmiş, Dizgisi yapılmış ve Yazılımı yüklenip test Edilmiş Hali</h5>
 <img src="https://user-images.githubusercontent.com/73975473/200960982-d3b59142-137d-4f94-a080-c4a932aabd7d.jpg" style="width:300px"/>
